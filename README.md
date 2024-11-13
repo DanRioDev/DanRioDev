@@ -68,7 +68,7 @@ I'm a **Senior Product Engineer** with over 20 years in the field, specializing 
 
 ## 📫 Let's Connect
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/oVerde)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danilo-verde)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/product-engineer-specialist-fullstack-and-growth/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilo.verde@live.com)
 
 ---
