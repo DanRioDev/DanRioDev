@@ -24,7 +24,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm a **Senior Product Engineer** with over 20 years in the field, specializing in building and scaling **robust, full-stack web products** and leading cross-functional teams. From **mobile to cloud**, I bring battle-tested expertise and am always excited to tackle complex new products.
+I'm a **Senior Product Engineer** with over 20 years in the field, specializing in building and scaling **full-stack web products** and leading cross-functional teams. From **mobile to cloud**, I bring battle-tested expertise and am always excited to tackle complex new products.
 
 ### ⚡ Quick Facts
 - 📍 Location: São Paulo, Brazil (Timezone: EST-2 / EDT-1)
