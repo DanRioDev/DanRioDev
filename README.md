@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🚀 Senior Product Engineer | Full Stack Enthusiast | Agile Leader
+### 🚀 Senior Product Engineer | Full Stack Developer | Agile Leader
 
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
