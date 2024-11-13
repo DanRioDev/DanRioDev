@@ -9,14 +9,19 @@
 ### 🚀 Senior Product Engineer | Full Stack Developer | Agile Leader
 
 <p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-EFD81D?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-React-00D8FF?style=flat&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/CSS3-2965F1?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Expo-4630EB?style=flat&logo=expo&logoColor=white">
+<img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-D8D8D8?style=flat&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Neovim-3AA76D?style=flat&logo=neovim&logoColor=white">
 </p>
 
 </div>
