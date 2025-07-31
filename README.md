@@ -66,7 +66,7 @@ I'm a **Senior Product Engineer** with over 20 years in the field specializing i
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oVerde&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanRioDev&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
