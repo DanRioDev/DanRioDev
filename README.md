@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Danilo R. Verde
 
-![Profile banner](https://media.licdn.com/dms/image/v2/C4D16AQGAR7MP-3eXHw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1660578319257?e=1736985600&v=beta&t=9egpbCkzjOtQvmv5wB6ConWKnM7TzBx4sdRzB-JxTw0) 
-
 ---
 
 <div align="center">
