@@ -1,18 +1,4 @@
-Hi, I’m Dan.
-Back in 2016, I was leading the building of web and
-mobile apps so fast that some products went from
-idea to store in just two months. Even on that speed,
-some of these still running now a day.
-Since then, I’ve worked across startups and global
-teams, building everything from neobanking platforms
-with GraphQL and TypeScript, to real-time social
-systems with React Native and Node.
-What I enjoy most is turning complex ideas into
-products people actually use, and coordinating cross-
-functional teams.
-Today, I’m looking for a challenging position where I
-can bring this mix of product thinking, and technical
-depth to help build the next big thing.
+👋 Hi there, I'm Dan!
 
 ---
 
@@ -41,6 +27,24 @@ depth to help build the next big thing.
 ---
 
 ## 🧑‍💻 About Me
+
+Hi, I’m Dan.
+Back in 2016, I was leading the building of web and
+mobile apps so fast that some products went from
+idea to store in just two months. Even on that speed,
+some of these still running now a day.
+Since then, I’ve worked across startups and global
+teams, building everything from neobanking platforms
+with GraphQL and TypeScript, to real-time social
+systems with React Native and Node.
+What I enjoy most is turning complex ideas into
+products people actually use, and coordinating cross-
+functional teams.
+Today, I’m looking for a challenging position where I
+can bring this mix of product thinking, and technical
+depth to help build the next big thing.
+
+---
 
 ### ⚡ Quick Facts
 - 📍 Location: São Paulo, Brazil (Timezone: EST-2 / EDT-1)
